@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+    
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: rgba(12, 230, 211, 0.959);
+    font-family: fantasy;
+}
+
+
+.navbar{background-color: rgb(2, 182, 253)};
